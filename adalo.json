@@ -1,0 +1,12 @@
+{
+  "displayName": "Markdown Renderer",
+  "components": [
+    {
+      "name": "MarkdownRenderer",
+      "manifest": "./src/components/MarkdownRenderer/manifest.json"
+    }
+  ],
+  "author": "Extend Studio",
+  "description": "",
+  "logo": "./example-logo.png"
+}
