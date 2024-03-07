@@ -1,21 +1,16 @@
 {
-  "displayName": "Markdown Renderer",
-  "defaultWidth": 160,
-  "defaultHeight": 24,
+  "displayName": "markdown renderer",
+  "defaultWidth": 320,
+  "defaultHeight": 80,
   "components": "./index.js",
   "icon": "./example-thumbnail.png",
-  "props": [
-    {
-      "name": "text",
-      "displayName": "Text",
-      "type": "text",
-      "default": "Happy Hacking"
-    },
-    {
-      "name": "color",
-      "displayName": "Color",
-      "type": "color",
-      "default": "#00A898"
-    }
-  ]
-}
+    "props": [
+      {
+        "name": "markdownText",
+        "displayName": "Text",
+        "type": "text",
+        "default": "**This is some fancy shit.**"
+      }
+    ]
+  }
+  
