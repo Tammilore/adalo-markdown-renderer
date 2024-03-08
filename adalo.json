@@ -7,7 +7,9 @@
     }
   ],
   "author": "Extend Studio",
-  "description": "",
+  "description": "Easily render and customize formatted text into your Adalo apps.",
   "logo": "./example-logo.png",
-  "demoAppURL": "https://previewer.adalo.com/fdfa5325-ec2a-4b05-900f-3e54004b500e?sessionToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE2OTQxOSwiZW1haWwiOiJ0YW1taWxvcmVAZ21haWwuY29tIiwiZGV2ZWxvcGVyIjp0cnVlLCJpYXQiOjE3MDk5MDg1OTcsImV4cCI6MTcxMjUwMDU5N30.G4Ihmpq0zeB7_-tVcLE-aZ0_5QMmvhNVqf9mdQ-n2_sl3X9HprexFTd9WWv59FsDmUzSj6nRa1gVfTkYnaR-ONSD8UKUnm3UQAbVLKbx6f3priKaOIiw-SpGn_9GidLpF264Hu23o8MuLPalQL_tOTCv-S_KOWAvv4ZSpDvXh1TCPhMlUCUN4x0YK65Xp3hhjvKrWX0Ja_LI0-b-JYpaeOEvjRkn26X5ZJh-G2YZ556KjcMqfJOyYs8MIi6-MOnOi68RiBxqDXRimeAiylzW2K-XwHHX04sK2EkwT8tJn6O25cTXL-0ycOfL5vE8SzQZhdDIAYnoiiNqTClKcqEBPw&_gl=1%2A12axk4a%2A_ga%2AOTYyODQzNjg4LjE3MDk2ODQ5MTQ.%2A_ga_SWT45DV35L%2AMTcwOTkwNDQ1NS40LjEuMTcwOTkwODk3My41OC4wLjA.&target=998942e43ce445e7a8ed43cc51862f42&params=%7B%7D"
+  "demoAppURL": "https://previewer.adalo.com/fdfa5325-ec2a-4b05-900f-3e54004b500e?sessionToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE2OTQxOSwiZW1haWwiOiJ0YW1taWxvcmVAZ21haWwuY29tIiwiZGV2ZWxvcGVyIjp0cnVlLCJpYXQiOjE3MDk5MDg1OTcsImV4cCI6MTcxMjUwMDU5N30.G4Ihmpq0zeB7_-tVcLE-aZ0_5QMmvhNVqf9mdQ-n2_sl3X9HprexFTd9WWv59FsDmUzSj6nRa1gVfTkYnaR-ONSD8UKUnm3UQAbVLKbx6f3priKaOIiw-SpGn_9GidLpF264Hu23o8MuLPalQL_tOTCv-S_KOWAvv4ZSpDvXh1TCPhMlUCUN4x0YK65Xp3hhjvKrWX0Ja_LI0-b-JYpaeOEvjRkn26X5ZJh-G2YZ556KjcMqfJOyYs8MIi6-MOnOi68RiBxqDXRimeAiylzW2K-XwHHX04sK2EkwT8tJn6O25cTXL-0ycOfL5vE8SzQZhdDIAYnoiiNqTClKcqEBPw&_gl=1%2A12axk4a%2A_ga%2AOTYyODQzNjg4LjE3MDk2ODQ5MTQ.%2A_ga_SWT45DV35L%2AMTcwOTkwNDQ1NS40LjEuMTcwOTkwODk3My41OC4wLjA.&target=998942e43ce445e7a8ed43cc51862f42&params=%7B%7D",
+  "requiresThirdPartySubscription": false,
+  "supportURL": "mailto:tammilore@gmail.com"
 }
