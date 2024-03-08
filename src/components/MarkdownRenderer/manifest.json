@@ -9,7 +9,24 @@
         "name": "markdownText",
         "displayName": "Text",
         "type": "text",
-        "default": "**This is some fancy shit.**"
+        "default": "**This is some fancy shit.**",
+        "styles": {
+          "fontFamily": "@body",
+          "textAlignment": "left"
+        }
+      },
+      {
+        "name": "textColor",
+        "displayName": "Text Color",
+        "type": "color",
+        "default": "@primary"
+      },
+      {
+        "name": "fontSize",
+        "displayName": "Font Size",
+        "type": "number",
+        "default": 16,
+        "control": { "type": "slider", "max": 48, "min": 12 }
       }
     ]
   }
